@@ -1,1 +1,4 @@
-Funny Life 3rd Project - LOLgame (2020.09 ~ )
+# Funny Life 3rd Project 
+
+###### Title : LOLgame
+###### Period : 2020.09 ~ 
