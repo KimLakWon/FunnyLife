@@ -1,0 +1,37 @@
+1. 저작권
+https://gall.dcinside.com/mgallery/board/view/?id=game_dev&no=16529
+결론 : 자유롭게 2차 창작 가능
+
+2. 참고 게임
+1) LoL e스포츠 매니저 
+- https://namu.wiki/w/%EB%9D%BC%EC%9D%B4%EC%97%87%20%EA%B2%8C%EC%9E%84%EC%A6%88/%EA%B0%9C%EB%B0%9C%20%EC%A4%91%EC%9D%B8%20%EA%B2%8C%EC%9E%84
+- https://gall.dcinside.com/mgallery/board/view/?id=lolmanager&no=17&_rk=eYK&page=1
+
+2) 롤 픽밴 프로토타입
+https://pick-ban-gg.web.app/
+
+3) 롤 픽밴 프로토타입 2
+http://prodraft.leagueoflegends.com/
+
+3. 이미지
+1) 에셋스토어
+https://assetstore.unity.com/2d/gui?category=2d%2Fgui&orderBy=1&page=1
+
+2) 롤 배너
+https://en.ephoto360.com/name-cover-lol-create-cover-that-league-of-legends-league-of-legends-banners-218.html
+
+3) 핀터레스트, Behance ...
+
+4. 음악
+1) 배경음 (상업적 목적이면 ccl 잘 보고 써야함)
+https://freemusicarchive.org/
+
+2) 효과음
+freesound.org
+
+5. 리소스
+1) 롤 관련 유용한 사이트
+https://talk.op.gg/s/lol/user-news/462218/%EB%A1%A4-%EA%B4%80%EB%A0%A8-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%9D%8C-%282017-11-22-ve
+
+2) 모든 리소스 관련 사이트
+https://gall.dcinside.com/mgallery/board/view?id=gamedevelop&no=229
